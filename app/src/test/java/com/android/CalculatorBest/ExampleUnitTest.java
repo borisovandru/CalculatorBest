@@ -1,4 +1,4 @@
-package com.android.calculatorbest;
+package com.android.CalculatorBest;
 
 import org.junit.Test;
 
